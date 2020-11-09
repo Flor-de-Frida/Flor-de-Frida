@@ -15,4 +15,4 @@ Adulto e infantil
 - :computer:   Java, Spring-Boot, Node, ReactJS, AWS
 - 💬   Vem florescer!
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Flor-de-Frida&show_icons=true" alt="Flor-de-Frida" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=flordefrida&show_icons=true" alt="flordefrida" /> </p>
